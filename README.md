@@ -12,12 +12,12 @@ Make sure you have Node.js and npm installed on your machine.
 
    ```bash
    npm install
-Start the app:
+2.Start the app:
 
-```bash
-npx expo start
+   ```bash
+  npx expo start
 
-
+   ```
 Usage
 The app provides a user-friendly interface for generating images using Hugging Face's ML model.
 Follow on-screen instructions to interact with the app and generate images.
