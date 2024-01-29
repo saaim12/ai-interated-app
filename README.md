@@ -37,3 +37,7 @@ Acknowledgments
 Special thanks to Hugging Face for providing the machine learning model.
 
 Feel free to customize the content further based on your specific app details and requirements.
+photos:
+![Alt text](<assets/WhatsApp Image 2024-01-29 at 12.50.49_7bab52a5.jpg>)
+![Alt text](<assets/WhatsApp Image 2024-01-29 at 12.50.49_e316161b.jpg>)
+![Alt text](<assets/WhatsApp Image 2024-01-29 at 12.50.50_713e1792.jpg>)
