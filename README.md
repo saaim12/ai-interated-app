@@ -14,7 +14,7 @@ Make sure you have Node.js and npm installed on your machine.
    npm install
 Start the app:
 
-bash
+```bash
 npx expo start
 
 
